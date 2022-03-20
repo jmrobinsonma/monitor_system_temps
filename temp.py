@@ -1,7 +1,6 @@
 import os
 import subprocess
 from plyer import notification
-#import json
 
 
 def temp(args = '-jf'):

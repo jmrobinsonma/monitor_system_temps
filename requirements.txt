@@ -1,0 +1,2 @@
+dbus-python==1.2.18
+plyer==2.0.0
